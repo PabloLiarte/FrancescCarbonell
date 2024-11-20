@@ -1,0 +1,5 @@
+.vercel
+
+# No ignorar imágenes
+!static/uploads/*
+
